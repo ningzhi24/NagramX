@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888231981929",
+    "project_id": "fcm-nagramx",
+    "storage_bucket": "fcm-nagramx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888231981929:android:f212a27bba0b95187503f8",
+        "android_client_info": {
+          "package_name": "nu.gpu.nagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcPxOP4WX_MpbPJFGn9inArTKR6VdmXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
